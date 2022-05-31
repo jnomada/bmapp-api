@@ -1,0 +1,17 @@
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/Expenses.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/ui/model/request/UserDetailsRequestModel.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/BMAPPapi.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/controller/ExpenseController.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/WebConfig.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/ui/model/request/ExpenseLookupRequest.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/ui/model/response/ErrorMessage.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/Users.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/ui/model/response/ChartDataResponseModel.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/ui/model/response/ExpenseType.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/controller/UserController.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/ui/model/response/ChartDataResponseModelDaysMonth.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/ui/model/request/UserLoginRequest.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/ui/model/request/DeleteExpensesModel.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/ui/model/response/ExpensesDetailsResponseModel.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/HibernateUtil.java
+/home/james/Development/proyectodam/a20jamess/bmapp-api/src/main/java/com/bmapp/api/exceptions/AppExceptionHandler.java
